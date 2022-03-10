@@ -1,0 +1,13 @@
+A C 19
+A E 76
+B C 44
+B F 96
+B H 18
+C E 20
+C F 1
+C H 12
+D G 100
+E F 33
+E G 8
+F H 51
+G H 92
